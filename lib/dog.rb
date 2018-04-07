@@ -14,3 +14,6 @@ end
 
 fido = Dog.new("fido")
 fido.name
+
+fido.name = "butch"
+fido.name
