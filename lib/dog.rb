@@ -6,8 +6,8 @@ end
 def dog_name
   @dog_name
 
-def breed(dog_breed)
-    @dog_breed = dog_breed
+def name=(new_dog_name)
+    @name = new_dog_name
 end
 
 end
