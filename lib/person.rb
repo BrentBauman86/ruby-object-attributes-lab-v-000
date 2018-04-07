@@ -15,11 +15,10 @@ class Person
   def job
     @job
   end
+end
 
   Grant = Person.new
   Grant.name = "Grant"
   Grant.name
-
   Grant.job = "AllStar Football Coach"
   Grant.job
-  
