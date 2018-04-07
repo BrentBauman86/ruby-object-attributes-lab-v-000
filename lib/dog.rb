@@ -12,5 +12,5 @@ def name=(new_name)
 end
 end
 
-Fido = Dog.new
-Fido.name = "Fido"
+Fido = Dog.new("Fido")
+Fido.name
