@@ -12,7 +12,7 @@ def name=(new_name)
 end
 end
 
-fido = Dog.new("fido")
+fido = Dog.new(name)
 fido.name
 
 fido.name = "butch"
